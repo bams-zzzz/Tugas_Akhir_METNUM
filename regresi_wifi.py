@@ -34,7 +34,7 @@ mae = np.mean(error)
 # ===============================
 # Prediksi Jarak Baru
 # ===============================
-jarak_baru = 10
+jarak_baru = 6
 prediksi_baru = a + b * jarak_baru
 
 # ===============================
